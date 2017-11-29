@@ -1,0 +1,40 @@
+﻿已經開始建置於 2017/10/11 下午 04:32:11。
+     1>節點 2 (Build 目標) 上的專案 "C:\workspace\c&c++\vs2013\c\ch6\ch6.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt hw2.c
+         hw2.c
+     1>c:\workspace\c&c++\vs2013\c\ch6\hw2.c(12): warning C4716: 'hw2' : 必須傳回值
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\workspace\c&c++\vs2013\c\Debug\ch6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\workspace\c&c++\vs2013\c\Debug\ch6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\workspace\c&c++\vs2013\c\Debug\ch6.lib" /MACHINE:X86 Debug\ex6_1a.obj
+         Debug\ex6_1b.obj
+         Debug\ex6_1c.obj
+         Debug\ex6_1d.obj
+         Debug\ex6_1e.obj
+         Debug\ex6_1f.obj
+         Debug\ex6_2a.obj
+         Debug\ex6_2b.obj
+         Debug\ex6_3a.obj
+         Debug\ex6_3b.obj
+         Debug\ex6_3c.obj
+         Debug\ex6_4a.obj
+         Debug\ex6_4b.obj
+         Debug\ex6_4c.obj
+         Debug\ex6_1g.obj
+         Debug\ex6_5a.obj
+         Debug\ex6_5b.obj
+         Debug\ex6_6a.obj
+         Debug\ex6_6b.obj
+         Debug\ex6_6c.obj
+         Debug\ex6_6d.obj
+         Debug\hw1.obj
+         Debug\hw2.obj
+         Debug\hw3.obj
+         Debug\hw4.obj
+         Debug\hw5.obj
+         Debug\main.obj
+         ch6.vcxproj -> C:\workspace\c&c++\vs2013\c\Debug\ch6.exe
+     1>專案 "C:\workspace\c&c++\vs2013\c\ch6\ch6.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.37

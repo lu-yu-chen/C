@@ -1,0 +1,28 @@
+﻿已經開始建置於 2017/11/15 上午 09:07:21。
+     1>節點 2 (Build 目標) 上的專案 "C:\workspace\c&c++\vs2013\c\ch9\ch9.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>c:\workspace\c&c++\vs2013\c\ch9\main.c(82): warning C4013: 'ex9_4d' 未定義; 假設 extern 傳回整數
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\workspace\c&c++\vs2013\c\Debug\ch9.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\workspace\c&c++\vs2013\c\Debug\ch9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\workspace\c&c++\vs2013\c\Debug\ch9.lib" /MACHINE:X86 Debug\ex9_1a.obj
+         Debug\ex9_1b.obj
+         Debug\ex9_1c.obj
+         Debug\ex9_1d.obj
+         Debug\ex9_1e.obj
+         Debug\ex9_2a.obj
+         Debug\ex9_2b.obj
+         Debug\ex9_3a.obj
+         Debug\ex9_3b.obj
+         Debug\ex9_3c.obj
+         Debug\ex9_4a.obj
+         Debug\ex9_4b.obj
+         Debug\ex9_4c.obj
+         Debug\ex9_4d.obj
+         Debug\main.obj
+         ch9.vcxproj -> C:\workspace\c&c++\vs2013\c\Debug\ch9.exe
+     1>專案 "C:\workspace\c&c++\vs2013\c\ch9\ch9.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.04

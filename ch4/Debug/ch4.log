@@ -1,0 +1,15 @@
+﻿已經開始建置於 2017/10/25 上午 09:00:17。
+     1>節點 2 (Build 目標) 上的專案 "C:\workspace\c&c++\vs2013\c\ch4\ch4.vcxproj"。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _CRT_SECURE_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ex7_3b.c main.c
+         main.c
+         ex7_3b.c
+         正在產生程式碼...
+     1>c:\workspace\c&c++\vs2013\c\ch4\ex7_3b.c(9): error C4700: 使用了未初始化的區域變數 'index1'
+     1>c:\workspace\c&c++\vs2013\c\ch4\ex7_3b.c(9): error C4700: 使用了未初始化的區域變數 'index2'
+     1>c:\workspace\c&c++\vs2013\c\ch4\ex7_3b.c(10): error C4700: 使用了未初始化的區域變數 'a'
+     1>專案 "C:\workspace\c&c++\vs2013\c\ch4\ch4.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.42
